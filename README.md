@@ -3,12 +3,13 @@ I am a passionate Full-Stack Software Developer specializing in the **.NET ecosy
 
 I have a strong focus on **Security-First development**, implementing industrial standards such as **AES-256 data encryption**, BCrypt hashing, and JWT-based policies. I enjoy tackling complex challenges — from container orchestration in **Docker** to designing scalable database architectures and intuitive, mobile-first UIs.
 
-# 🚀 Featured Project: RemontDoc (ex Field Pro Manager)
-A professional **SaaS PWA** platform for service technicians, moving business from "paper chaos" to a structured digital environment.
+# 🚀 Featured Project: [RemontDoc.ru](https://remontdoc.ru)
+**A professional SaaS PWA platform for service technicians.**
+- **Live Demo:** [remontdoc.ru](https://remontdoc.ru) 🌐
 - **Frontend:** Blazor WebAssembly + Tailwind CSS (Strict, FinTech-inspired UI).
-- **Backend:** .NET WebAPI with a focus on data isolation and multi-tenancy.
-- **Security:** AES-256 encryption at rest for sensitive client data and JWT-based security.
-- **Infrastructure:** Deployed on VPS via Docker + Nginx Proxy Manager with automated SSL.
+- **Backend:** .NET WebAPI + PostgreSQL.
+- **Security:** AES-256 symmetric encryption, BCrypt, and JWT-based policies.
+- **Infrastructure:** Docker, Nginx Proxy Manager, Let's Encrypt SSL.
 
 # 💻 Tech Stack:
 
