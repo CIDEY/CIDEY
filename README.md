@@ -1,137 +1,79 @@
 # 💫 About Me
 
-I am a Lead Full‑Stack .NET Software Engineer specializing in
-**industrial automation systems, verification equipment, and secure SaaS
-platforms**.
+Senior Backend / .NET Engineer with 5+ years of experience building high-reliability systems in industrial automation, IoT, and SaaS.
 
-My expertise combines **hardware interaction, real‑time process control,
-and enterprise software architecture**. I design and develop
-high‑reliability systems used for calibration, verification, and
-monitoring of industrial and laboratory equipment.
+I specialize in designing backend architectures for real-time data processing, hardware integration, and fault-tolerant systems.
 
-------------------------------------------------------------------------
+Currently working as a Tech Lead, responsible for system architecture, code quality, and delivery of production-critical projects.
 
-# 🏭 Industrial & Automation Experience
+---
 
-### 🔧 Verification & Calibration Systems
+# 🧠 Core Expertise
 
--   Development of automated verification software for temperature
-    signalizers and relay devices.
--   Implementation of full calibration cycles: heating, cooling,
-    stabilization, trigger detection.
--   Async orchestration of multi‑channel verification processes.
--   Timeout‑safe execution pipelines and fault handling logic.
--   Real‑time telemetry logging and stage monitoring.
+- Highload & real-time data processing
+- Distributed and fault-tolerant systems
+- Hardware integration (RS-485, TCP/IP)
+- Async pipelines & concurrency
+- Backend architecture (Clean Architecture, DDD)
 
-### 🌡 Temperature Equipment Control
+---
 
--   Integration with thermal chambers and calibration stands.
--   Monitoring relay trigger points (close/open temperatures).
--   Detection of defective devices (timeout, no trigger,
-    out‑of‑tolerance).
--   Parallel verification of multiple measuring instruments.
+# 🏭 Industrial Systems Experience
 
-### ⚡ Energy Metering Systems (Previous Role)
+## Verification & Calibration Systems
 
--   Development of software for **electricity meter configuration and
-    verification**.
--   Work with **COSEM / DLMS protocol**.
--   Device parameterization, reading, and validation.
--   Calibration workflows and verification reporting.
+- Designed and implemented automated calibration systems for industrial devices
+- Built async multi-channel processing pipelines (500–1000 ops/min)
+- Implemented fault-tolerant execution with timeout handling and recovery logic
+- Real-time telemetry processing and monitoring
 
-------------------------------------------------------------------------
+## Equipment Integration
 
-# 🚀 Featured SaaS Project --- RemontDoc.ru
+- Integration with 50+ devices simultaneously (RS-485, TCP/IP)
+- Parallel verification and processing of measurement devices
+- Hardware Abstraction Layer for multiple device types
 
-Professional PWA SaaS platform for service technicians.
+## Energy Metering Systems
 
-**Live Demo:** https://remontdoc.ru
+- Development of software for energy consumption analysis and anomaly detection
+- Reduced customer losses by 20%
+- Integration with devices via COSEM / DLMS protocols
 
-### 🔹 Architecture
+---
 
--   Frontend: Blazor WebAssembly + Tailwind CSS
--   Backend: ASP.NET Core WebAPI
--   Database: PostgreSQL
+# 🚀 Featured Project — RemontDoc (SaaS)
 
-### 🔹 Security
+Production-ready multi-tenant SaaS platform.
 
--   AES‑256 symmetric encryption
--   BCrypt password hashing
--   JWT authorization policies
+**Tech:**
+- ASP.NET Core (Web API)
+- Blazor WebAssembly
+- PostgreSQL
 
-### 🔹 Infrastructure
+**Highlights:**
+- Multi-tenant architecture with secure data isolation
+- JWT authentication, AES-256 encryption
+- Docker-based deployment (Linux, Nginx)
+- Real users in production
 
--   Docker containerization
--   Nginx Proxy Manager
--   Let's Encrypt SSL
--   Multi‑tenant architecture
-
-------------------------------------------------------------------------
+---
 
 # 💻 Tech Stack
 
-## 🛠 Languages & Frameworks
+**Backend:**
+C#, .NET, ASP.NET Core
 
--   C# / .NET
--   ASP.NET Core
--   Java Spring Boot
--   Hibernate
--   Maven
+**Databases:**
+PostgreSQL, MS SQL, MySQL
 
-## 🖥 Desktop Development
+**Infrastructure:**
+Docker, CI/CD, Linux, Nginx
 
--   WPF
--   AvaloniaUI
--   Xamarin
+**Integration:**
+TCP/IP, RS-485, hardware drivers
 
-## 🌐 Web & Frontend
+---
 
--   Blazor WebAssembly
--   TailwindCSS
--   OpenAPI Specification
--   Swagger / Postman
+# 📫 Contact
 
-## 🗄 Databases & Storage
-
--   PostgreSQL
--   Microsoft SQL Server
--   MySQL
--   SQLite
--   Firebase
-
-## ⚙ Infrastructure & DevOps
-
--   Docker
--   Nginx
--   CI/CD basics
--   Linux server deployment
-
-## 🔐 Security
-
--   AES‑256 encryption
--   JWT authentication
--   BCrypt hashing
--   Secure data isolation
-
-------------------------------------------------------------------------
-
-# 🛠 Engineering Focus
-
--   Industrial equipment automation
--   Verification & calibration pipelines
--   Async process orchestration
--   Multi‑tenant SaaS scaling
--   Cross‑platform desktop systems
--   Secure data processing
-
-------------------------------------------------------------------------
-
-# 📫 Collaboration
-
-Feel free to explore my repositories or reach out for professional
-collaboration in:
-
--   Industrial automation
--   Calibration & verification software
--   SaaS platforms
--   Secure enterprise systems
+Open to backend / distributed systems roles and challenging engineering problems.
