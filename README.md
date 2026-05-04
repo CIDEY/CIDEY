@@ -41,7 +41,7 @@ Currently working as a Tech Lead, responsible for system architecture, code qual
 
 ---
 
-# 🚀 Featured Project — RemontDoc (SaaS)
+# 🚀 Featured Project - RemontDoc (SaaS)
 
 Production-ready multi-tenant SaaS platform.
 
