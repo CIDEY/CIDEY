@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Senior Backend / .NET Engineer with 5+ years of experience building high-reliability systems in industrial automation, IoT, and SaaS.
+Senior Backend / .NET Engineer with 4+ years of experience building high-reliability systems in industrial automation, IoT, and SaaS.
 
 I specialize in designing backend architectures for real-time data processing, hardware integration, and fault-tolerant systems.
 
